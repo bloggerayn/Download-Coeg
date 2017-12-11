@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/12/perbedaan-antara-rpg-mmorpg-dan-moba.html.html"}
 if(x=="2"){xxx="/2017/12/istilah-istilah-dalam-game-dota-2-serta.html"}
 if(x=="3"){xxx="/2017/12/perbedaan-genre-game-fps-dengan-tps.html"}
 if(x=="4"){xxx="/2017/12/mengenal-apa-itu-e-sport-dan.html"}
-if(x=="5"){xxx="/2017/12/cara-bermain-game-ps-2-di-android.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/12/cara-bermain-game-ps-2-di-android.html"}a_to_ve[i].href="https://downloadercoeg.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
