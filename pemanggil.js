@@ -26,7 +26,7 @@ if(x=="1"){xxx="/2018/01/the-importance-of-insurance-for-any.html"}
 if(x=="2"){xxx="/2018/01/why-life-insurance-is-important.html"}
 if(x=="3"){xxx="/2018/01/5-important-types-of-travel-insurance.html"}
 if(x=="4"){xxx="/2018/01/4-types-of-insurance-and-its-importance.html"}
-if(x=="5"){xxx="/2018/01/importance-and-benefits-of-travel.html"}a_to_ve[i].href="http://downloadercoeg.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/01/importance-and-benefits-of-travel.html"}a_to_ve[i].href="www.downloadercoeg.ga/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
